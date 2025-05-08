@@ -1,9 +1,9 @@
 ---
 #snow_record variables
 
-sn_instance: https://dev336605.service-now.com
-sn_username: aes.creator
-sn_password: xFWb%1a*c6UO
+sn_instance: https://dev336xxx.service-now.com
+sn_username: <REDACTED>
+sn_password: <REDACTED>
 
 #data variables
 
